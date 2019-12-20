@@ -1,0 +1,6 @@
+.idea
+__pycache__
+old
+venv
+*.ui
+*.log
